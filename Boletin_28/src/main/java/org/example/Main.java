@@ -1,0 +1,15 @@
+package org.example;
+
+
+
+public class Main {
+
+
+    public static void main(String[] args) {
+        // TODO code application logic here
+        Interfaz obxI = new Interfaz();
+        obxI.iniciar();
+
+    }
+
+}
